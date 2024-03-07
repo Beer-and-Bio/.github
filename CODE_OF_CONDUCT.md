@@ -1,8 +1,5 @@
-Certainly! Here's a Code of Conduct that you can include in your collaborative repository:
 
----
-
-# Beer and Bio Code of Conduct
+# Beer and Bio Code of Conduct 🍻
 
 ## Introduction
 
@@ -26,13 +23,13 @@ At Beer and Bio, we are committed to fostering a welcoming and inclusive environ
   
 - **Be collaborative**: Work together towards common goals. Share knowledge, resources, and credit appropriately.
   
-- **Be constructive**: Provide feedback in a constructive and respectful manner. Focus on improving ideas and contributions rather than criticizing individuals.
+- **Be constructive**: Provide feedback constructively and respectfully. Focus on improving ideas and contributions rather than criticizing individuals.
 
 ## Unacceptable Behavior
 
 The following behaviors are considered unacceptable within our community:
 
-- **Harassment**: Harassment, intimidation, or discrimination in any form will not be tolerated. This includes but is not limited to: offensive comments, unwelcome advances, and verbal or physical abuse.
+- **Harassment**: Harassment, intimidation, or discrimination in any form will not be tolerated. This includes but is not limited to offensive comments, unwelcome advances, and verbal or physical abuse.
   
 - **Hate Speech**: Hate speech, derogatory language, or discriminatory remarks based on race, ethnicity, gender, sexual orientation, religion, disability, or any other protected characteristic are strictly prohibited.
   
@@ -40,9 +37,6 @@ The following behaviors are considered unacceptable within our community:
   
 - **Violation of Privacy**: Sharing or soliciting personal information about others without their consent is a violation of privacy and will not be tolerated.
 
-## Reporting Procedure
-
-If you witness or experience behavior that violates this Code of Conduct, please report it to the Beer and Bio administrators at [admin@beerandbio.org](mailto:admin@beerandbio.org) or through our Slack channel. All reports will be treated with confidentiality and will be promptly investigated.
 
 ## Enforcement
 
@@ -52,6 +46,3 @@ Violations of this Code of Conduct may result in disciplinary action, including 
 
 By participating in Beer and Bio collaborative projects and spaces, you agree to abide by this Code of Conduct. We are committed to upholding these principles and fostering a positive and supportive community for all. Let's work together to create a welcoming environment where everyone can thrive.
 
----
-
-Feel free to adjust the content as needed to fit your community's specific needs and values.
